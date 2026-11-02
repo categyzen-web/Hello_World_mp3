@@ -38,8 +38,8 @@ Listen to the beat on TunePad [here](https://tunepad.com/project/132172).
 - **A coded beat:** five TunePad tracks (kicks, snares, shaker, bass and keyboard), each exactly 8 beats long, built with loops, lists and a list of lists for the chords (C, G, A minor, F).
 
 ## Screenshots
-![The lyrics printing in IDLE](./images/karaoke_idle.png)
-![The beat in TunePad](./images/tunepad_beat.png)
+![The lyrics printing in IDLE](karaoke_idle.png)
+![The beat in TunePad](tunepad_beat.png)
 
 ## Setup
 There are no extra packages to install. `time` is part of Python's standard library.
